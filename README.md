@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently improving my **Frontend Tech Stack**
 
-- 👨‍💻 All of my projects are available at [https://sofiarocher.com/](https://sofiarocher.com/)
+- 👨‍💻 All of my projects are available at [https://sofiarocher.dev/]([https://sofiarocher.com/](https://sofiarocher.dev/es))
 
 - 📝 I regularly write on [https://www.linkedin.com/in/sofiarocher/](https://www.linkedin.com/in/sofiarocher/)
 
