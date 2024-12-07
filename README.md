@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiarocher&label=Profile%20views&color=0e75b6&style=flat" alt="sofiarocher" /> </p>
 
-- 🔭 I’m currently working on [website-for-C](https://github.com/sofiarocher/website-for-C)
+- 🔭 I’m currently working on Comuna18, a Software Factory based in México.
 
 - 🌱 I’m currently improving my **Frontend Tech Stack**
-
-- 👨‍💻 All of my projects are available at [https://sofiarocher.dev/]([https://sofiarocher.com/](https://sofiarocher.dev/es))
 
 - 📝 I regularly write on [https://www.linkedin.com/in/sofiarocher/](https://www.linkedin.com/in/sofiarocher/)
 
