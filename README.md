@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working at a NYC Fintech Startup
 
-- 🌱 I’m currently improving my **Frontend Tech Stack**
+- 🎧 My fav stack: NextJS & Typescript
 
-- 💬 Ask me about **freelancing, how to start, everything you want**
-
-- 📫 How to reach me **srocher.dev@gmail.com**
+- 📫 You can reach me here: **srocher.dev@gmail.com**
 
 - ⚡ A fact **I love to help more devs, that's why I make content.**
 
