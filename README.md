@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofía Rocher</h1>
 <h3 align="center">A passionate frontend developer and content creator from Argentina.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3NDBjZ3I1dWMxY2xyZzVyaHVhemlqcGpmaWgyNmZsaDNjZTJwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiarocher&label=Profile%20views&color=0e75b6&style=flat" alt="sofiarocher" /> </p>
 
