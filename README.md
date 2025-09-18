@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiarocher&label=Profile%20views&color=0e75b6&style=flat" alt="sofiarocher" /> </p>
 
-- 🔭 I’m currently working on Comuna18, a Software Factory based in México.
+- 🔭 I’m currently working at a NYC Fintech Startup
 
 - 🌱 I’m currently improving my **Frontend Tech Stack**
-
-- 📝 I regularly write on [https://www.linkedin.com/in/sofiarocher/](https://www.linkedin.com/in/sofiarocher/)
 
 - 💬 Ask me about **freelancing, how to start, everything you want**
 
@@ -22,9 +20,3 @@
 <a href="https://linkedin.com/in/sofiarocher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiarocher" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCBSOvpxyqLs2s3Rq7PKd_Sg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srocher" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiarocher&show_icons=true&locale=en&layout=compact" alt="sofiarocher" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiarocher&show_icons=true&locale=en" alt="sofiarocher" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiarocher&" alt="sofiarocher" /></p>
